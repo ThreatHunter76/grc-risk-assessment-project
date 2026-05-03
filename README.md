@@ -15,6 +15,5 @@ This project simulates a cybersecurity risk assessment conducted on a financial 
 - Risk Register
 - Security Recommendations
 
-## Framework References
-- ISO 27001
-- NIST Cybersecurity Framework
+Carried out by ; AbdulQudus Olamilekan AbdulHakeem
+Twitter : ThreatHunter76
